@@ -17,6 +17,15 @@
   Para convergir com os meus interesses, construi uma aplicacao web em Django para gerenciar os horarios da monitoria,<br> ademais, atualmente estou construindo um app moobile em Dart-Flutter para integrar com essa plataforma e integrarei essas plataformas com o django rest framework.
 ---
 
+## meu github:
+
+<div>
+<a href="https://github.com/DanielBrown1998">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBrown1998&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielBrown1998&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
 ## Principais Habilidades:
 
 <p>codewars kata: <img src="https://www.codewars.com/users/daniel4661/badges/small"/></p>
@@ -58,4 +67,4 @@
 
 Se você quiser que eu elabore mais detalhadamente com informações específicas do seu perfil, é só me dizer! 😊
 
-<head><script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script></head>
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
