@@ -44,7 +44,7 @@
 ---
 
 ## Como Me Encontrar:<br>
-🌐 redes sociais:
+🌐 redes sociais:<br>
 <a href="https://www.linkedin.com/in/daniel-brown-rodrigues-m-dos-passos">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a><br>
