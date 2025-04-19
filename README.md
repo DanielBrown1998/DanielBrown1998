@@ -1,3 +1,4 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 ---
 
 # Bem-vindo! 👋
@@ -43,9 +44,7 @@
 ---
 
 ## Como Me Encontrar:
-🌐 LinkedIn: 
-<img src="https://br.linkedin.com/in/daniel-brown-rodrigues-m-dos-passos-04693b25b?trk=profile-badge">
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="daniel-brown-rodrigues-m-dos-passos-04693b25b" data-version="v1">
+🌐 LinkedIn:<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="daniel-brown-rodrigues-m-dos-passos-04693b25b" data-version="v1">
   <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/daniel-brown-rodrigues-m-dos-passos-04693b25b?trk=profile-badge">
     Daniel Brown Rodrigues M. dos Passos
   </a>
@@ -59,4 +58,3 @@
 
 Se você quiser que eu elabore mais detalhadamente com informações específicas do seu perfil, é só me dizer! 😊
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
