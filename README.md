@@ -20,6 +20,7 @@
 
 ## Principais Habilidades:
 <p><img src="https://www.codewars.com/users/daniel4661/badges/large"/></p>
+<p><img src="https://www.credly.com/earner/earned/badge/9f55abf2-b290-4fbb-944e-64c0720c43f3"/></p>
 
 🔹 **Técnicas:** 
 
