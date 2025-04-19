@@ -19,6 +19,7 @@
 
 ## Principais Habilidades:
 <p><img src="https://www.codewars.com/users/daniel4661/badges/large"/></p>
+<img src="![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)">
 
 🔹 **Técnicas:** 
 
