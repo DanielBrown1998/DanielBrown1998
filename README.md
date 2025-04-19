@@ -18,8 +18,7 @@
 ---
 
 ## Principais Habilidades:
-
-https://www.codewars.com/users/daniel4661/badges/large
+<p><img src="https://www.codewars.com/users/daniel4661/badges/large"/></p>
 
 🔹 **Técnicas:** 
 
