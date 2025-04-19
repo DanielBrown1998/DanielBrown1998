@@ -13,7 +13,7 @@
 
 ## Experiência Profissional:
 - **UERJ** - Monitor de Arquitetura de Computadores
-  Como monitor e de minha atribuicao auxiliar os alunos na disciplina e gerenciar os horarios, alunos e assuntos da materia.
+  \nComo monitor e de minha atribuicao auxiliar os alunos na disciplina e gerenciar os horarios, alunos e assuntos da materia.
   Para convergir com meus interesses, construi uma aplicacao web em Django para gerenciar os horarios da monitoria,, atualmente estou construindo um app moobile em Dart-Flutter para integrar com essa plataforma.
 ---
 
