@@ -44,8 +44,10 @@
 ---
 
 ## Como Me Encontrar:<br>
-🌐 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"><br>
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="daniel-brown-rodrigues-m-dos-passos" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/daniel-brown-rodrigues-m-dos-passos?trk=profile-badge">Daniel Brown Rodrigues M. dos Passos</a></div>
+🌐 redes sociais:
+<a href="https://www.linkedin.com/in/daniel-brown-rodrigues-m-dos-passos">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a><br>
               
               
 📧 Email: daniel_profissional1998@hotmail.com  
