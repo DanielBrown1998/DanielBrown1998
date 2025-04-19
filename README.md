@@ -43,7 +43,8 @@
 ---
 
 ## Como Me Encontrar:
-🌐 LinkedIn: https://www.linkedin.com/in/daniel-brown-rodrigues-m-dos-passos
+🌐 LinkedIn: 
+<img src="https://br.linkedin.com/in/daniel-brown-rodrigues-m-dos-passos-04693b25b?trk=profile-badge">
 <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="daniel-brown-rodrigues-m-dos-passos-04693b25b" data-version="v1">
   <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/daniel-brown-rodrigues-m-dos-passos-04693b25b?trk=profile-badge">
     Daniel Brown Rodrigues M. dos Passos
