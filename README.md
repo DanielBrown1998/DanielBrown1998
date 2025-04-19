@@ -18,10 +18,10 @@
 ---
 
 ## Principais Habilidades:
-<p><img src="https://www.codewars.com/users/daniel4661/badges/small"/></p>
 
+<p>codewars kata: <img src="https://www.codewars.com/users/daniel4661/badges/small"/></p>
 
-🔹 **Técnicas:** 
+🔹 **Técnicas:** <br>
    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
    <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
@@ -31,7 +31,7 @@
    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
    <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray">
      
-🔹 **Ferramentas:** 
+🔹 **Ferramentas:** <br>
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
@@ -41,20 +41,12 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 
-🔹 **Interpessoais:**
-
-  1. Comunicativo
-  2. disciplinado
-
 ---
 
-## Como Me Encontrar:
-🌐 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="daniel-brown-rodrigues-m-dos-passos" data-version="v1">
-  <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/daniel-brown-rodrigues-m-dos-passos?trk=profile-badge">
-    Daniel Brown Rodrigues M. dos Passos
-  </a>
-</div>
+## Como Me Encontrar:<br>
+🌐 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"><br>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="daniel-brown-rodrigues-m-dos-passos" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/daniel-brown-rodrigues-m-dos-passos?trk=profile-badge">Daniel Brown Rodrigues M. dos Passos</a></div>
+              
               
 📧 Email: daniel_profissional1998@hotmail.com  
 
@@ -64,3 +56,4 @@
 
 Se você quiser que eu elabore mais detalhadamente com informações específicas do seu perfil, é só me dizer! 😊
 
+<head><script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script></head>
