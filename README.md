@@ -51,7 +51,7 @@
 ---
 
 ## Como Me Encontrar:
-🌐 <a href="www.linkedin.com/in/daniel-brown-rodrigues-m-dos-passos"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+🌐 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"><a href="www.linkedin.com/in/daniel-brown-rodrigues-m-dos-passos">Daniel Brown</a>
               
 📧 Email: daniel_profissional1998@hotmail.com  
 
