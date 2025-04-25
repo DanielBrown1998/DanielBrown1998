@@ -30,6 +30,14 @@
 
 <p>codewars kata: <img src="https://www.codewars.com/users/daniel4661/badges/small"/></p>
 
+<p>
+  <a href="https://verify.openedg.org/">
+    <img src="https://pythoninstitute.org/assets/61f11fac8e6f4153315957.png" style=" width: 100px; heigth: 100px" alt="PCEP ">
+  </a>
+  <br>
+  <p>code credential: <b>tjXC.OXp9.DZ4x</b></p>
+</p>
+
 🔹 **Técnicas:** <br>
    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
    <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
