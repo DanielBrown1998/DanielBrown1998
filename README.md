@@ -37,6 +37,7 @@
   <br>
   <p>code credential: <b>tjXC.OXp9.DZ4x</b></p>
 </p>
+<img src="https://assets.dio.me/Ts3gSWyY9i18YohyI-1r67ZQEbtYbqQIXFYMdv1_UC4/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvYzgzMzNiZjMtYzJiZS00N2MxLWE0NzItYzhhZDhkMDdlYTc4LnBuZw" style=" width: 100px; heigth: 100px" alt="DIO Mobile">
 
 🔹 **Técnicas:** <br>
    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
