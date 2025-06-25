@@ -34,10 +34,11 @@
   <a href="https://verify.openedg.org/">
     <img src="https://pythoninstitute.org/assets/61f11fac8e6f4153315957.png" style=" width: 100px; heigth: 100px" alt="PCEP ">
   </a>
+  <img src="https://assets.dio.me/Ts3gSWyY9i18YohyI-1r67ZQEbtYbqQIXFYMdv1_UC4/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvYzgzMzNiZjMtYzJiZS00N2MxLWE0NzItYzhhZDhkMDdlYTc4LnBuZw" style=" width: 100px; heigth: 100px" alt="DIO Mobile">
+
   <br>
   <p>code credential: <b>tjXC.OXp9.DZ4x</b></p>
 </p>
-<img src="https://assets.dio.me/Ts3gSWyY9i18YohyI-1r67ZQEbtYbqQIXFYMdv1_UC4/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvYzgzMzNiZjMtYzJiZS00N2MxLWE0NzItYzhhZDhkMDdlYTc4LnBuZw" style=" width: 100px; heigth: 100px" alt="DIO Mobile">
 
 🔹 **Técnicas:** <br>
    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -74,5 +75,3 @@
 🚀 Vamos colaborar? Estou sempre aberto a novas oportunidades e parcerias!
 ---
 
-Se você quiser que eu elabore mais detalhadamente com informações específicas do seu perfil, é só me dizer! 😊
-![Snake animation](https://github.com/seu-usuário-aqui/DanielBrown1998/blob/output/github-contribution-grid-snake.svg)
