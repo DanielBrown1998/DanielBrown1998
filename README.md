@@ -35,6 +35,7 @@
     <img src="https://pythoninstitute.org/assets/61f11fac8e6f4153315957.png" style=" width: 100px; heigth: 100px" alt="PCEP ">
   </a>
   <img src="https://assets.dio.me/Ts3gSWyY9i18YohyI-1r67ZQEbtYbqQIXFYMdv1_UC4/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvYzgzMzNiZjMtYzJiZS00N2MxLWE0NzItYzhhZDhkMDdlYTc4LnBuZw" style=" width: 100px; heigth: 100px" alt="DIO Mobile">
+  <img src="https://hermes.dio.me/courses/badge/3e88a455-c220-4e56-bb29-28c046ed6ae7.png" style=" width: 100px; heigth: 100px" alt="Clean Code">
 
   <br>
   <p>code credential: <b>tjXC.OXp9.DZ4x</b></p>
