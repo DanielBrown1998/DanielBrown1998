@@ -38,8 +38,12 @@
    <a href="https://www.dio.me/certificate/64EE8ZTZ/share">
      <img src="https://hermes.dio.me/courses/badge/3e88a455-c220-4e56-bb29-28c046ed6ae7.png" style=" width: 100px; heigth: 100px" alt="Clean Code">
    </a>
+   <a href="https://www.dio.me/certificate/4XAWENER/share">
+     <img src="https://hermes.dio.me/courses/badge/406684a4-396d-4160-94b9-ead934e18564.png" style=" width: 100px; heigth: 100px" alt="github">
+   </a>
+   
   <br>
-  <p>code credential: <b>tjXC.OXp9.DZ4x</b></p>
+  <p>code credential for PCEP: <b>tjXC.OXp9.DZ4x</b></p>
 </p>
 
 🔹 **Técnicas:** <br>
