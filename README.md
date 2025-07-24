@@ -41,6 +41,9 @@
    <a href="https://www.dio.me/certificate/4XAWENER/share">
      <img src="https://hermes.dio.me/courses/badge/406684a4-396d-4160-94b9-ead934e18564.png" style=" width: 100px; heigth: 100px" alt="github">
    </a>
+   <a href="https://developers.google.com/profile/badges/playlists/android/android-architecture?hl=pt-br">
+     <img src="https://developers.google.com/profile/badges/playlists/android/android-architecture/badge.svg" style=" width: 100px; heigth: 100px" alt="github">
+   </a>
    
   <br>
   <p>code credential for PCEP: <b>tjXC.OXp9.DZ4x</b></p>
