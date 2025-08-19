@@ -23,7 +23,7 @@
   esses materiais servem como base para que os integrantes possam  ministrar oficinas na NAVE do Conhecimento < https://www.navedoconhecimento.rio/ >.
 
   **Aspire Institute** https://www.aspireleaders.org/
-  Em julho de 2025, eu fora premiado com a ilustre oportunidade de participar de um programa internacional para jovens de primeira geracao na universidade.
+  O Programa Aspire Leaders acolhe estudantes universitários de primeira geração, de renda limitada e recém-formados de todo o mundo para participar de uma jornada interativa e gratuita de desenvolvimento de liderança, que pode ser gerenciada em conjunto com seus outros compromissos.
   
 --- 
 
