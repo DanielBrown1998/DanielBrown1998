@@ -12,12 +12,20 @@
 ---
 
 ## Experiência Profissional:
-- **UERJ** - Monitor de Arquitetura de Computadores<br>
+
+  **UERJ** - Monitor de Arquitetura de Computadores<br>
   Como monitor, minhas atribuicoes sao auxiliar os alunos, gerenciar os horarios e assuntos da materia.<br>
   Desde a minha entrada na monitoria, a aprovacao na disciplina subiu 50% e 80% daqueles que participaram ao menos duaas vezes na monitoria foram aprovados.
   Para convergir com os meus interesses, construi uma aplicacao mobile em Flutter/Dart para gerenciar os horarios da monitoria,<br>
+
+  **UERJ** - Pro-docencia em Seguranca da Informacao<br>
+  Minha atribuicao nessa iniciativa e escrever artigos e contribuir com a elaboracao de uma apostila, <br>
+  esses materiais servem como base para que os integrantes possam  ministrar oficinas na NAVE do Conhecimento < https://www.navedoconhecimento.rio/ >.
+
+  **Aspire Institute** https://www.aspireleaders.org/
+  Em julho de 2025, eu fora premiado com a ilustre oportunidade de participar de um programa internacional para jovens de primeira geracao na universidade.
   
----
+--- 
 
 ## meu github:
 
