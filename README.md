@@ -39,7 +39,8 @@
 
 ## Principais Habilidades:
 
-<p>codewars kata: <img src="https://www.codewars.com/users/daniel4661/badges/small"/></p>
+ ##codewars kata: 
+ <img src="https://www.codewars.com/users/daniel4661/badges/small"/>
 
 <p>
   <a href="https://verify.openedg.org/">
