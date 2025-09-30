@@ -36,12 +36,10 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielBrown1998&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-
-## Principais Habilidades:
-
 ## Codewars kata: 
 <img src="https://www.codewars.com/users/daniel4661/badges/small"/>
 
+## Principais Habilidades:
 <p>
   <a href="https://verify.openedg.org/">
     <img src="https://pythoninstitute.org/assets/61f11fac8e6f4153315957.png" style=" width: 100px; heigth: 100px" alt="PCEP ">
