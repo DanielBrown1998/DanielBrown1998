@@ -1,14 +1,13 @@
 <div align="center">
-  
   <h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=02569B&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Daniel+Brown!+%F0%9F%91%8B" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&pause=1000&color=02569B&center=true&vCenter=true&width=500&lines=Daniel+Brown" alt="Typing SVG" />
     </a>
   </h1>
   
-  <h4>
-    Estudante de Ciência da Computação na UERJ, apaixonado por desenvolvimento de software e soluções criativas.
-  </h4>
+  <h3>
+    BACK-END DEVELOPER | MOBILE DEVELOPER | FLUTTER DEVELOPER
+  </h3>
   
   <p align="center">
     <a href="https://www.linkedin.com/in/daniel-brown-rodrigues-m-dos-passos" target="_blank">
@@ -18,7 +17,10 @@
       <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
     </a>
     <a href="https://danielbrown1998.github.io/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfólio-333333?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
+      <img src="https://img.shields.io/badge/Portfólio-333333?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+    </a>
+     <a href="https://developers.google.com/profile/u/DanielBrown1998" target="_blank">
+      <img src="https://img.shields.io/badge/Google_Dev-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Dev"/>
     </a>
   </p>
   
@@ -104,7 +106,25 @@
     <li>Os materiais produzidos foram base para oficinas ministradas na <strong>NAVE do Conhecimento</strong>.</li>
   </ul>
 </details>
-
+<details>
+[cite_start]<summary><strong>Redator e Palestrante @ Projeto de Extensão CCT - UERJ</strong> (Maio 2025 – Presente) [cite: 32]</summary>
+<br>
+  <ul>
+    [cite_start]<li>Escrevo apostilas focadas em conscientização sobre segurança da informação[cite: 34].</li>
+    [cite_start]<li>Conduzo workshops e projetos práticos que simulam ambientes de ataque e defesa de software[cite: 35, 36].</li>
+    [cite_start]<li><b>Tecnologias:</b> Linux, Kali, Nmap, Maltego, SQL Injection, Trello[cite: 38].</li>
+  </ul>
+</details>
+<details>
+<summary><strong>Instrutor Técnico de Flutter @ UERJ JUNIOR COMPANY</strong> (Agosto 2025 – Presente)</summary>
+<br>
+  <ul>
+    <li>Capacito estudantes em Flutter através de um programa técnico estruturado.</li>
+    <li>Crio materiais educacionais e conduzo workshops práticos de programação mobile.</li>
+    <li>Oriento desenvolvedores juniores em projetos, estabelecendo padrões de código e arquitetura (MVC, MVVM, Clean Architecture).</li>
+    <li><b>Tecnologias:</b> Flutter, Dart, Codemagic, Firebase, Bloc, GetX, Provider, Git, Scrum, Kanban[cite: 29].</li>
+  </ul>
+</details>
 <details>
 <summary><strong>Leadership Development Program @ Aspire Institute</strong></summary>
 <br>
