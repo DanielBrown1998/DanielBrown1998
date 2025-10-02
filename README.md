@@ -114,9 +114,9 @@
 [cite_start]<summary><strong>Redator e Palestrante @ Projeto de Extensão CCT - UERJ</strong> (Maio 2025 – Presente) [cite: 32]</summary>
 <br>
   <ul>
-    [cite_start]<li>Escrevo apostilas focadas em conscientização sobre segurança da informação[cite: 34].</li>
-    [cite_start]<li>Conduzo workshops e projetos práticos que simulam ambientes de ataque e defesa de software[cite: 35, 36].</li>
-    [cite_start]<li><b>Tecnologias:</b> Linux, Kali, Nmap, Maltego, SQL Injection, Trello[cite: 38].</li>
+    <li>Escrevo apostilas focadas em conscientização sobre segurança da informação.</li>
+    <li>Conduzo workshops e projetos práticos que simulam ambientes de ataque e defesa de software.</li>
+    <li><b>Tecnologias:</b> Linux, Kali, Nmap, Maltego, SQL Injection, Trello.</li>
   </ul>
 </details>
 <details>
@@ -144,6 +144,9 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielBrown1998&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBrown1998&layout=compact&langs_count=7&theme=dracula"/>
+  <img
+    height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielBrown1998&theme=dracula&hide_border=false" alt="Github Stats"
+      />
 </div>
 
 ---
@@ -169,5 +172,17 @@
   &nbsp;
   <img src="https://assets.dio.me/jWdic4XcRZZsNOS6q4Zc3Imnk9W9fnUeKT9M0qU7Z8I/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNzMzNDZmZTktM2MzNC00MjliLTg2ZGMtMWJlMDRjYzNlYzYwLnBuZw" width="100px" alt="DIO Badge">
 </p>
+### 🏆 GitHub Profile Trophy
 
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="900"
+      src="https://github-profile-trophy.vercel.app/?username=DanielBrown1998&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
 ---
