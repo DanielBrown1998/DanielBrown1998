@@ -31,8 +31,12 @@
 ### 👨‍💻 Sobre Mim
 
 - 🎓 Graduando em **Ciência da Computação** na UERJ-ZO (2022.1 - hoje).
-- 🚀 Especializando-me em desenvolvimento de software, com foco em **aplicativos mobile e web**.
+- 🚀 Especializando-me em desenvolvimento de software, com foco em **aplicativos mobile**.
 - 💡 Busco constantemente desafios para aplicar minhas habilidades em soluções de impacto positivo.
+- 📱 **Mobile:** Experiência no ciclo completo de desenvolvimento de apps multiplataforma com **Flutter** e **Dart**.
+- ⚙️ **Backend:** Sólidos conhecimentos na construção de backends robustos com **Python** e **Django**.
+- ☁️ **DevOps & Cloud:** Implementação de pipelines de **CI/CD com Codemagic** e utilização do **Firebase** para autenticação e banco de dados em tempo real.
+- 📐 **Arquitetura:** Proficiência em **Clean Architecture**, Design Patterns (MVC, MVVM) e desenvolvimento orientado a objetos (POO).
 - 🥋 Praticante de resolução de problemas em plataformas como: <br>
   <center>
   <a href="https://www.codewars.com/users/daniel4661">
