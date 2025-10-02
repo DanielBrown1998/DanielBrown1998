@@ -31,13 +31,16 @@
 - 🎓 Graduando em **Ciência da Computação** na UERJ-ZO (2022.1 - hoje).
 - 🚀 Especializando-me em desenvolvimento de software, com foco em **aplicativos mobile e web**.
 - 💡 Busco constantemente desafios para aplicar minhas habilidades em soluções de impacto positivo.
-- 🥋 Praticante de resolução de problemas em plataformas como: ---> 
+- 🥋 Praticante de resolução de problemas em plataformas como: <br>
+  <center>
   <a href="https://www.codewars.com/users/daniel4661">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
   </a>
+    
+  </center>
 
 ---
 
