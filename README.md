@@ -169,6 +169,9 @@
   <a href="https://www.dio.me/certificate/4XAWENER/share">
     <img src="https://hermes.dio.me/courses/badge/406684a4-396d-4160-94b9-ead934e18564.png" width="100px" alt="GitHub">
   </a>
+  <a href="https://drive.google.com/file/d/1OXrrWvn9Iv0nzb3RBDBS8isPW1jWwDxQ/view">
+    <img src="https://assets.dio.me/v_P_ReJ-J6oiF0BTY2bQBP5DzNGi-pIsbTNjCMSt8gA/f:webp/h:120/q:80/L3RyYWNrcy8xNTA5NTEyZS0zOTQ1LTQ1ODItOGZkMC0zOGI3OTg4OTNkODMucG5n" width="100px" alt="GitHub">
+  </a>
   &nbsp;
   <img src="https://assets.dio.me/jWdic4XcRZZsNOS6q4Zc3Imnk9W9fnUeKT9M0qU7Z8I/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNzMzNDZmZTktM2MzNC00MjliLTg2ZGMtMWJlMDRjYzNlYzYwLnBuZw" width="100px" alt="DIO Badge">
 </p>
