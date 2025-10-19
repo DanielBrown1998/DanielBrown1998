@@ -22,6 +22,9 @@
      <a href="https://developers.google.com/profile/u/DanielBrown1998" target="_blank">
       <img src="https://img.shields.io/badge/Google_Dev-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Dev"/>
     </a>
+    <a href="https://learn.microsoft.com/pt-br/users/danielbrown1998/" target="_blank">
+      <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Dev"/>
+    </a>
   </p>
   
 </div>
