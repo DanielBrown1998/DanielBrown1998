@@ -176,7 +176,9 @@
     <img src="https://assets.dio.me/v_P_ReJ-J6oiF0BTY2bQBP5DzNGi-pIsbTNjCMSt8gA/f:webp/h:120/q:80/L3RyYWNrcy8xNTA5NTEyZS0zOTQ1LTQ1ODItOGZkMC0zOGI3OTg4OTNkODMucG5n" width="100px" alt="GitHub">
   </a>
   &nbsp;
-  <img src="https://assets.dio.me/jWdic4XcRZZsNOS6q4Zc3Imnk9W9fnUeKT9M0qU7Z8I/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNzMzNDZmZTktM2MzNC00MjliLTg2ZGMtMWJlMDRjYzNlYzYwLnBuZw" width="100px" alt="DIO Badge">
+  <img src="https://assets.dio.me/i66lSnq5YDtscKlMxPddotHmhqp--RSlWOmWCVrDaLE/f:webp/h:120/q:80/L3RyYWNrcy82ZDIxZjI0MC1hODVhLTQ1NzAtYTIxNy1jM2I5YTM3ZDE5MjQucG5n" width="100px" alt="DIO Badge">
+  <img src="https://assets.dio.me/kWC6SXqjlSjfntRsakCW1eF81MlAVGRKK7nQYjlgGm0/f:webp/h:120/q:80/L3RyYWNrcy9iOTYzMTE1Yi02NWZjLTQ3MGItYjg3Yi1lOTg4MjUxYjhhMjEucG5n" width="100px" alt="DIO Badge">
+  <img src="https://assets.dio.me/QYlbU3zpuBO8SpI_PgQe-sce6lVI0IGqVXO1xiV17Cw/f:webp/h:120/q:80/L3RyYWNrcy9hMTE0YWE3NC04NTRhLTQ1NWItODE2OS1kYzkxNTc3MTJiMjcucG5n" width="100px" alt="DIO Badge">
 </p>
 ### 🏆 GitHub Profile Trophy
 
