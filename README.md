@@ -51,6 +51,10 @@
     
   </center>
 
+### 🔴 idiomas: Inglês e Português
+<img src="https://assets.dio.me/Of6dzMn_HY8bALr7jL2KNH3YqIuwTmFFlTzzSmSz9zg/f:webp/q:80/w:120/L3NjaG9vbC9iYWRnZXMvZDA0MTdkZjgtMTQ4OS00ZTc4LWFiZGYtYzUxNGI3ZGYzYmFkLnBuZw
+" alt="English4TechBronze">
+
 ---
 
 ### 🛠️ Minhas Ferramentas e Tecnologias
