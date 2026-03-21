@@ -1,199 +1,166 @@
 <div align="center">
-  <h1>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&pause=1000&color=02569B&center=true&vCenter=true&width=500&lines=Daniel+Brown" alt="Typing SVG" />
-    </a>
-  </h1>
-  
-  <h3>
-    BACK-END DEVELOPER | MOBILE DEVELOPER | FLUTTER DEVELOPER
-  </h3>
-  
-  <p align="center">
-    <a href="https://www.linkedin.com/in/daniel-brown-rodrigues-m-dos-passos" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:daniel_profissional1998@hotmail.com">
-      <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://danielbrown1998.github.io/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfólio-333333?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
-    </a>
-     <a href="https://developers.google.com/profile/u/DanielBrown1998" target="_blank">
-      <img src="https://img.shields.io/badge/Google_Dev-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Dev"/>
-    </a>
-    <a href="https://learn.microsoft.com/pt-br/users/danielbrown1998/" target="_blank">
-      <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Dev"/>
-    </a>
-  </p>
-  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0A192F,100:02569B&text=Daniel%20Brown&fontSize=48&fontAlignY=38&desc=Mobile%20%7C%20Backend%20%7C%20Flutter%20Developer&descAlignY=56&animation=twinkling" alt="banner" />
+
+<h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=900&color=32B5FF&center=true&vCenter=true&width=900&lines=Construindo+apps+mobile+robustos+com+Flutter;Backend+escalavel+com+Python+e+Django;Clean+Architecture%2C+CI%2FCD+e+boas+praticas+de+engenharia" alt="typing animation" />
+  </a>
+</h1>
+
+<a href="https://www.linkedin.com/in/daniel-brown-rodrigues-m-dos-passos" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:daniel_profissional1998@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+</a>
+<a href="https://danielbrown1998.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://developers.google.com/profile/u/DanielBrown1998" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer" />
+</a>
+<a href="https://learn.microsoft.com/pt-br/users/danielbrown1998/" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft%20Learn-2563EB?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn" />
+</a>
+
 </div>
 
 ---
 
-### 👨‍💻 Sobre Mim
+## Sobre Mim
 
-- 🎓 Graduando em **Ciência da Computação** na UERJ-ZO (2022.1 - hoje).
-- 🚀 Especializando-me em desenvolvimento de software, com foco em **aplicativos mobile**.
-- 💡 Busco constantemente desafios para aplicar minhas habilidades em soluções de impacto positivo.
-- 📱 **Mobile:** Experiência no ciclo completo de desenvolvimento de apps multiplataforma com **Flutter** e **Dart**.
-- ⚙️ **Backend:** Sólidos conhecimentos na construção de backends robustos com **Python** e **Django**.
-- ☁️ **DevOps & Cloud:** Implementação de pipelines de **CI/CD com Codemagic** e utilização do **Firebase** para autenticação e banco de dados em tempo real.
-- 📐 **Arquitetura:** Proficiência em **Clean Architecture**, Design Patterns (MVC, MVVM) e desenvolvimento orientado a objetos (POO).
-- 🥋 Praticante de resolução de problemas em plataformas como: <br>
-  <center>
-  <a href="https://www.codewars.com/users/daniel4661">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
-  </a>
-    
-  </center>
+Sou estudante de Ciencia da Computacao (UERJ-ZO) com foco em desenvolvimento de software de ponta a ponta.
+Atuo principalmente com Flutter no mobile e Python/Django no backend, aplicando arquitetura limpa, organizacao de codigo e entrega continua.
 
-### 🔴 idiomas: Inglês e Português
-<img src="https://assets.dio.me/Of6dzMn_HY8bALr7jL2KNH3YqIuwTmFFlTzzSmSz9zg/f:webp/q:80/w:120/L3NjaG9vbC9iYWRnZXMvZDA0MTdkZjgtMTQ4OS00ZTc4LWFiZGYtYzUxNGI3ZGYzYmFkLnBuZw" alt="English4TechBronze">
+- Mobile multiplataforma com Flutter e Dart
+- Backend robusto com Python, Django e PostgreSQL
+- Integracao com Firebase (auth e dados em tempo real)
+- CI/CD com Codemagic para fluxo de release
+- Arquitetura com Clean Architecture, MVC e MVVM
+- Comunicacao em Portugues e Ingles
 
 ---
 
-### 🛠️ Minhas Ferramentas e Tecnologias
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Linguagens & Frameworks</strong><br><br>
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-      <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
-      <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-    </td>
-    <td valign="top" width="50%">
-      <strong>Bancos de Dados & Cloud</strong><br><br>
-      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-      <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase">
-      <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Ferramentas de Desenvolvimento</strong><br><br>
-      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
-    </td>
-    <td valign="top" width="50%">
-      <strong>Gerenciamento e Outros</strong><br><br>
-      <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello">
-      <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
-      <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork">
-    </td>
-  </tr>
-</table>
-
----
-
-### 💼 Experiência Profissional
-
-<details>
-<summary><strong>Monitor de Arquitetura de Computadores @ UERJ</strong></summary>
-<br>
-  <ul>
-    <li>Auxiliei alunos com dúvidas, resultando em um <strong>aumento de 50% na taxa de aprovação</strong> da disciplina.</li>
-    <li>Gerenciei horários e conteúdo da monitoria para otimizar o aprendizado dos estudantes.</li>
-    <li>Desenvolvi um <strong>aplicativo em Flutter/Dart</strong> para organizar os agendamentos da monitoria, unindo a necessidade da disciplina com meus interesses em desenvolvimento mobile.</li>
-  </ul>
-</details>
-
-<details>
-<summary><strong>Pro-docência em Segurança da Informação @ UERJ</strong></summary>
-<br>
-  <ul>
-    <li>Pesquisei e redigi artigos sobre temas atuais de segurança da informação.</li>
-    <li>Contribuí para a elaboração de uma apostila didática utilizada como material de apoio.</li>
-    <li>Os materiais produzidos foram base para oficinas ministradas na <strong>NAVE do Conhecimento</strong>.</li>
-  </ul>
-</details>
-<details>
-[cite_start]<summary><strong>Redator e Palestrante @ Projeto de Extensão CCT - UERJ</strong> (Maio 2025 – Presente) [cite: 32]</summary>
-<br>
-  <ul>
-    <li>Escrevo apostilas focadas em conscientização sobre segurança da informação.</li>
-    <li>Conduzo workshops e projetos práticos que simulam ambientes de ataque e defesa de software.</li>
-    <li><b>Tecnologias:</b> Linux, Kali, Nmap, Maltego, SQL Injection, Trello.</li>
-  </ul>
-</details>
-<details>
-<summary><strong>Instrutor Técnico de Flutter @ UERJ JUNIOR COMPANY</strong> (Agosto 2025 – Presente)</summary>
-<br>
-  <ul>
-    <li>Capacito estudantes em Flutter através de um programa técnico estruturado.</li>
-    <li>Crio materiais educacionais e conduzo workshops práticos de programação mobile.</li>
-    <li>Oriento desenvolvedores juniores em projetos, estabelecendo padrões de código e arquitetura (MVC, MVVM, Clean Architecture).</li>
-    <li><b>Tecnologias:</b> Flutter, Dart, Codemagic, Firebase, Bloc, GetX, Provider, Git, Scrum, Kanban[cite: 29].</li>
-  </ul>
-</details>
-<details>
-<summary><strong>Leadership Development Program @ Aspire Institute</strong></summary>
-<br>
-  <ul>
-    <li>Participei de um programa global e gratuito de desenvolvimento de liderança para estudantes universitários de primeira geração e de baixa renda.</li>
-  </ul>
-</details>
-
----
-
-### 📈 Minhas Estatísticas no GitHub
+## Stack em Destaque
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielBrown1998&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBrown1998&layout=compact&langs_count=7&theme=dracula"/>
-  <img
-    height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielBrown1998&theme=dracula&hide_border=false" alt="Github Stats"
-      />
+
+### Mobile Engineering
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+<img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
+
+### Backend Engineering
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+<img src="https://img.shields.io/badge/Django-0B4B33?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/REST%20API-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+
+### Dados, Cloud e Entrega
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS" />
+<img src="https://img.shields.io/badge/Codemagic-F45E3F?style=for-the-badge&logo=flutter&logoColor=white" alt="Codemagic" />
+
+### Qualidade e Arquitetura
+<img src="https://img.shields.io/badge/Clean%20Architecture-1D4ED8?style=for-the-badge&logo=dependabot&logoColor=white" alt="Clean Architecture" />
+<img src="https://img.shields.io/badge/MVVM-2563EB?style=for-the-badge&logo=icloud&logoColor=white" alt="MVVM" />
+<img src="https://img.shields.io/badge/MVC-0284C7?style=for-the-badge&logo=googlenews&logoColor=white" alt="MVC" />
+<img src="https://img.shields.io/badge/Bloc-1F6FEB?style=for-the-badge&logo=flutter&logoColor=white" alt="Bloc" />
+<img src="https://img.shields.io/badge/GetX-111827?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX" />
+<img src="https://img.shields.io/badge/Provider-0EA5E9?style=for-the-badge&logo=flutter&logoColor=white" alt="Provider" />
+
 </div>
 
 ---
 
-### 📜 Certificações e Conquistas
+## Experiencia e Atividades
 
-<p align="center">
-  <a href="https://verify.openedg.org/" title="PCEP – Certified Entry-Level Python Programmer. Credential: tjXC.OXp9.DZ4x">
-    <img src="https://pythoninstitute.org/assets/61f11fac8e6f4153315957.png" width="100px" alt="PCEP">
-  </a>
-  &nbsp;
-  <a href="https://developers.google.com/profile/badges/playlists/android/android-architecture?hl=pt-br">
-    <img src="https://developers.google.com/profile/badges/playlists/android/android-architecture/badge.svg" width="100px" alt="Google - Android Architecture">
-  </a>
-  &nbsp;
-  <a href="https://www.dio.me/certificate/64EE8ZTZ/share">
-    <img src="https://hermes.dio.me/courses/badge/3e88a455-c220-4e56-bb29-28c046ed6ae7.png" width="80px" alt="Clean Code">
-  </a>
-  &nbsp;
-  <a href="https://www.dio.me/certificate/4XAWENER/share">
-    <img src="https://hermes.dio.me/courses/badge/406684a4-396d-4160-94b9-ead934e18564.png" width="100px" alt="GitHub">
-  </a>
-  <a href="https://drive.google.com/file/d/1OXrrWvn9Iv0nzb3RBDBS8isPW1jWwDxQ/view">
-    <img src="https://assets.dio.me/v_P_ReJ-J6oiF0BTY2bQBP5DzNGi-pIsbTNjCMSt8gA/f:webp/h:120/q:80/L3RyYWNrcy8xNTA5NTEyZS0zOTQ1LTQ1ODItOGZkMC0zOGI3OTg4OTNkODMucG5n" width="100px" alt="GitHub">
-  </a>
-  &nbsp;
-  <img src="https://assets.dio.me/i66lSnq5YDtscKlMxPddotHmhqp--RSlWOmWCVrDaLE/f:webp/h:120/q:80/L3RyYWNrcy82ZDIxZjI0MC1hODVhLTQ1NzAtYTIxNy1jM2I5YTM3ZDE5MjQucG5n" width="100px" alt="DIO Badge">
-  <img src="https://assets.dio.me/kWC6SXqjlSjfntRsakCW1eF81MlAVGRKK7nQYjlgGm0/f:webp/h:120/q:80/L3RyYWNrcy9iOTYzMTE1Yi02NWZjLTQ3MGItYjg3Yi1lOTg4MjUxYjhhMjEucG5n" width="100px" alt="DIO Badge">
-  <img src="https://assets.dio.me/QYlbU3zpuBO8SpI_PgQe-sce6lVI0IGqVXO1xiV17Cw/f:webp/h:120/q:80/L3RyYWNrcy9hMTE0YWE3NC04NTRhLTQ1NWItODE2OS1kYzkxNTc3MTJiMjcucG5n" width="100px" alt="DIO Badge">
-</p>
-### 🏆 GitHub Profile Trophy
+<details>
+  <summary><strong>Instrutor Tecnico de Flutter - UERJ JUNIOR COMPANY</strong> (Ago/2025 - Atual)</summary>
+  <br/>
+  - Capacito estudantes em Flutter com trilha tecnica estruturada.<br/>
+  - Conduzo workshops praticos e mentoria em projetos reais.<br/>
+  - Defino padroes de arquitetura e boas praticas (MVC, MVVM, Clean Architecture).<br/>
+  - Stack aplicada: Flutter, Dart, Firebase, Codemagic, Bloc, GetX, Provider, Git, Scrum e Kanban.
+</details>
 
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="900"
-      src="https://github-profile-trophy.vercel.app/?username=DanielBrown1998&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
+<details>
+  <summary><strong>Redator e Palestrante - Projeto de Extensao CCT (UERJ)</strong> (Mai/2025 - Atual)</summary>
+  <br/>
+  - Produzo materiais didaticos sobre seguranca da informacao.<br/>
+  - Apresento oficinas com cenarios praticos de ataque e defesa.<br/>
+  - Tecnologias e ferramentas: Linux, Kali, Nmap, Maltego, SQL Injection e Trello.
+</details>
+
+<details>
+  <summary><strong>Monitor de Arquitetura de Computadores - UERJ</strong></summary>
+  <br/>
+  - Apoio tecnico aos alunos e melhoria do desempenho da turma.<br/>
+  - Desenvolvi app em Flutter/Dart para organizacao de agendamentos da monitoria.
+</details>
+
+<details>
+  <summary><strong>Pro-docencia em Seguranca da Informacao - UERJ</strong></summary>
+  <br/>
+  - Pesquisa, redacao tecnica e elaboracao de apostilas para oficinas educativas.
+</details>
+
 ---
+
+## GitHub em Movimento
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DanielBrown1998&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBrown1998&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="top languages" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielBrown1998&theme=tokyonight&hide_border=true" alt="streak" />
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DanielBrown1998&bg_color=0f172a&color=38bdf8&line=0ea5e9&point=f8fafc&area=true&hide_border=true" alt="activity graph" />
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=DanielBrown1998&theme=tokyonight&column=7&no-frame=true&no-bg=true" alt="trophies" />
+</div>
+
+---
+
+## Certificacoes e Conquistas
+
+<div align="center">
+  <a href="https://verify.openedg.org/" title="PCEP - Certified Entry-Level Python Programmer">
+    <img src="https://pythoninstitute.org/assets/61f11fac8e6f4153315957.png" width="100" alt="PCEP" />
+  </a>
+  <a href="https://developers.google.com/profile/badges/playlists/android/android-architecture?hl=pt-br">
+    <img src="https://developers.google.com/profile/badges/playlists/android/android-architecture/badge.svg" width="100" alt="Google Android Architecture" />
+  </a>
+  <a href="https://www.dio.me/certificate/64EE8ZTZ/share">
+    <img src="https://hermes.dio.me/courses/badge/3e88a455-c220-4e56-bb29-28c046ed6ae7.png" width="90" alt="Clean Code" />
+  </a>
+  <a href="https://www.dio.me/certificate/4XAWENER/share">
+    <img src="https://hermes.dio.me/courses/badge/406684a4-396d-4160-94b9-ead934e18564.png" width="100" alt="GitHub" />
+  </a>
+</div>
+
+---
+
+## Vamos Conectar
+
+<div align="center">
+  <a href="mailto:daniel_profissional1998@hotmail.com">
+    <img src="https://img.shields.io/badge/Fale%20comigo%20por%20Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+  <a href="https://www.linkedin.com/in/daniel-brown-rodrigues-m-dos-passos" target="_blank">
+    <img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:02569B,100:0A192F" alt="footer" />
+</div>
