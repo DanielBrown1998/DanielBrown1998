@@ -4,7 +4,7 @@
 
 <h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=900&color=32B5FF&center=true&vCenter=true&width=900&lines=Construindo+apps+mobile+robustos+com+Flutter;Backend+escalavel+com+Python+e+Django;Clean+Architecture%2C+CI%2FCD+e+boas+praticas+de+engenharia" alt="typing animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=900&color=32B5FF&center=true&vCenter=true&width=900&lines=Building+robust+mobile+apps+with+Flutter;Scalable+backend+with+Python+and+Django;Clean+Architecture,+CI%2FCD+and+best+practices" alt="typing animation" />
   </a>
 </h1>
 
@@ -28,21 +28,21 @@
 
 ---
 
-## Sobre Mim
+## Mobile Software Engineer
 
-Sou estudante de Ciencia da Computacao (UERJ-ZO) com foco em desenvolvimento de software de ponta a ponta.
-Atuo principalmente com Flutter no mobile e Python/Django no backend, aplicando arquitetura limpa, organizacao de codigo e entrega continua.
+I build high-performance cross-platform applications and scalable software architectures. My focus is on delivering robust mobile solutions using rigorous engineering standards, including Clean Architecture and SOLID principles.
 
-- Mobile multiplataforma com Flutter e Dart
-- Backend robusto com Python, Django e PostgreSQL
-- Integracao com Firebase (auth e dados em tempo real)
-- CI/CD com Codemagic para fluxo de release
-- Arquitetura com Clean Architecture, MVC e MVVM
-- Comunicacao em Portugues e Ingles
+**Current Focus:**
+* Executing a strategic migration of legacy Native Android (Kotlin) applications to Flutter for a US-based Healthtech.
+* Leading the mobile development team as Head Mobile at STEM, enforcing Code Review processes and structuring CI/CD pipelines (GitHub Actions, Codemagic).
 
----
+**Technical Stack:**
+* **Languages & Frameworks:** Flutter, Dart, Python.
+* **Architecture & Testing:** Clean Architecture, SOLID, Unit/Widget/Mock Testing.
+* **State Management:** BLOC, Riverpod, Provider, GetX.
+* **Backend & Cloud:** Firebase (Auth, Firestore, Cloud Functions), GCP.
 
-## Stack em Destaque
+## Core Tech Stack
 
 <div align="center">
 
@@ -57,14 +57,14 @@ Atuo principalmente com Flutter no mobile e Python/Django no backend, aplicando 
 <img src="https://img.shields.io/badge/Django-0B4B33?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 <img src="https://img.shields.io/badge/REST%20API-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
 
-### Dados, Cloud e Entrega
+### Data, Cloud & Delivery
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS" />
 <img src="https://img.shields.io/badge/Codemagic-F45E3F?style=for-the-badge&logo=flutter&logoColor=white" alt="Codemagic" />
 
-### Qualidade e Arquitetura
+### Quality & Architecture
 <img src="https://img.shields.io/badge/Clean%20Architecture-1D4ED8?style=for-the-badge&logo=dependabot&logoColor=white" alt="Clean Architecture" />
 <img src="https://img.shields.io/badge/MVVM-2563EB?style=for-the-badge&logo=icloud&logoColor=white" alt="MVVM" />
 <img src="https://img.shields.io/badge/MVC-0284C7?style=for-the-badge&logo=googlenews&logoColor=white" alt="MVC" />
@@ -76,41 +76,45 @@ Atuo principalmente com Flutter no mobile e Python/Django no backend, aplicando 
 
 ---
 
-## Experiencia e Atividades
+## Active Projects
+
+* **Real-Time Management System & Data Dashboard:** A full-stack solution (Flutter + Firebase) for managing users, statuses, and appointments with real-time backend synchronization.
+* **Productivity App (Kronos / Studie):** End-to-end development of a productivity tracking application, encompassing system design through App Store/Play Store deployment.
+* **Booking & Space Reservation Mobile Solution:** Application handling complex state management and concurrency for real-time spot reservations.
+
+## Experience & Activities
 
 <details>
-  <summary><strong>Instrutor Tecnico de Flutter - UERJ JUNIOR COMPANY</strong> (Ago/2025 - Atual)</summary>
+  <summary><strong>Technical Flutter Instructor - STEM Junior Company (UERJ)</strong> (Aug/2025 - Present)</summary>
   <br/>
-  - Capacito estudantes em Flutter com trilha tecnica estruturada.<br/>
-  - Conduzo workshops praticos e mentoria em projetos reais.<br/>
-  - Defino padroes de arquitetura e boas praticas (MVC, MVVM, Clean Architecture).<br/>
-  - Stack aplicada: Flutter, Dart, Firebase, Codemagic, Bloc, GetX, Provider, Git, Scrum e Kanban.
+  - Train students in cross-platform development through a structured technical learning path.<br/>
+  - Conduct practical workshops and provide technical mentorship on real-world projects.<br/>
+  - Enforce architectural standards and software design patterns (MVC, MVVM, Clean Architecture).<br/>
+  - Applied Stack: Flutter, Dart, Firebase, Codemagic, BLOC, GetX, Provider, Git, Scrum, and Kanban.
 </details>
 
 <details>
-  <summary><strong>Redator e Palestrante - Projeto de Extensao CCT (UERJ)</strong> (Mai/2025 - Atual)</summary>
+  <summary><strong>Technical Writer & Speaker - CCT Extension Project (UERJ)</strong> (May/2025 - Present)</summary>
   <br/>
-  - Produzo materiais didaticos sobre seguranca da informacao.<br/>
-  - Apresento oficinas com cenarios praticos de ataque e defesa.<br/>
-  - Tecnologias e ferramentas: Linux, Kali, Nmap, Maltego, SQL Injection e Trello.
+  - Produce technical documentation and educational materials on Information Security.<br/>
+  - Present hands-on workshops featuring practical cyberattack and defense scenarios.<br/>
+  - Technologies & Tools: Linux, Kali, Nmap, Maltego, SQL Injection, and Trello.
 </details>
 
 <details>
-  <summary><strong>Monitor de Arquitetura de Computadores - UERJ</strong></summary>
+  <summary><strong>Computer Architecture Teaching Assistant - UERJ</strong></summary>
   <br/>
-  - Apoio tecnico aos alunos e melhoria do desempenho da turma.<br/>
-  - Desenvolvi app em Flutter/Dart para organizacao de agendamentos da monitoria.
+  - Provide technical support to students, significantly improving overall class approval rates.<br/>
+  - Developed a full-stack mobile application (Flutter/Dart) to manage tutoring schedules and student appointments.
 </details>
 
 <details>
-  <summary><strong>Pro-docencia em Seguranca da Informacao - UERJ</strong></summary>
+  <summary><strong>Information Security Teaching Assistantship - UERJ</strong></summary>
   <br/>
-  - Pesquisa, redacao tecnica e elaboracao de apostilas para oficinas educativas.
+  - Conduct research, perform technical writing, and develop comprehensive study guides for educational cybersecurity workshops.
 </details>
 
----
-
-## GitHub em Movimento
+## GitHub Activity
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DanielBrown1998&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats" />
@@ -131,7 +135,10 @@ Atuo principalmente com Flutter no mobile e Python/Django no backend, aplicando 
 
 ---
 
-## Certificacoes e Conquistas
+## Certifications & Achievements
+
+* **Aspire Leaders Program (2025):** Accepted into Cohort 4.
+* **DIO Campus Experts Alumni:** Specific Applications Programming (Jun 2025 - Sep 2025).
 
 <div align="center">
   <a href="https://verify.openedg.org/" title="PCEP - Certified Entry-Level Python Programmer">
@@ -150,14 +157,14 @@ Atuo principalmente com Flutter no mobile e Python/Django no backend, aplicando 
 
 ---
 
-## Vamos Conectar
+## Social Media
 
 <div align="center">
   <a href="mailto:daniel_profissional1998@hotmail.com">
-    <img src="https://img.shields.io/badge/Fale%20comigo%20por%20Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+    <img src="https://img.shields.io/badge/Contact%20me%20via%20Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
   <a href="https://www.linkedin.com/in/daniel-brown-rodrigues-m-dos-passos" target="_blank">
-    <img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
 </div>
 
