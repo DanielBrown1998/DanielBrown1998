@@ -9,19 +9,23 @@
 </h1>
 
 <a href="https://www.linkedin.com/in/daniel-brown-rodrigues-m-dos-passos" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="./assets/icons/linkedin.svg" width="30" alt="LinkedIn" title="LinkedIn" />
 </a>
-<a href="mailto:daniel_profissional1998@hotmail.com">
-  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+&nbsp;&nbsp;
+<a href="mailto:daniel.brown.dev1998@gmail.com">
+  <img src="./assets/icons/gmail.svg" width="30" alt="Email" title="Email" />
 </a>
+&nbsp;&nbsp;
 <a href="https://danielbrown1998.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  <img src="./assets/icons/github.svg" width="30" alt="Portfolio" title="Portfolio" />
 </a>
+&nbsp;&nbsp;
 <a href="https://developers.google.com/profile/u/DanielBrown1998" target="_blank">
-  <img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer" />
+  <img src="./assets/icons/google.svg" width="30" alt="Google Developer Profile" title="Google Developer Profile" />
 </a>
+&nbsp;&nbsp;
 <a href="https://learn.microsoft.com/pt-br/users/danielbrown1998/" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft%20Learn-2563EB?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn" />
+  <img src="./assets/icons/microsoft.svg" width="30" alt="Microsoft Learn" title="Microsoft Learn" />
 </a>
 
 </div>
@@ -30,88 +34,148 @@
 
 ## Mobile Software Engineer
 
-I build high-performance cross-platform applications and scalable software architectures. My focus is on delivering robust mobile solutions using rigorous engineering standards, including Clean Architecture and SOLID principles.
+I am a Mid-Level Flutter Developer focused on building reliable Android and iOS applications. I work with technical leadership, scalable software architecture, automated testing, RESTful API integrations, and CI/CD, applying Clean Architecture and SOLID principles to production codebases.
 
 **Current Focus:**
-* Executing a strategic migration of legacy Native Android (Kotlin) applications to Flutter for a US-based Healthtech.
-* Leading the mobile development team as Head Mobile at STEM, enforcing Code Review processes and structuring CI/CD pipelines (GitHub Actions, Codemagic).
+* Developing and evolving a Flutter product for **Doctor Meddie**, a US-based Healthtech, with architecture ownership, automated testing, RESTful API integrations, and mobile delivery pipelines.
+* Leading the mobile development team at **STEM**, mentoring developers, conducting code reviews, and defining architecture and CI/CD standards.
 
 **Technical Stack:**
-* **Languages & Frameworks:** Flutter, Dart, Python.
-* **Architecture & Testing:** Clean Architecture, SOLID, Unit/Widget/Mock Testing.
-* **State Management:** BLOC, Riverpod, Provider, GetX.
-* **Backend & Cloud:** Firebase (Auth, Firestore, Cloud Functions), GCP.
+* **Languages & Frameworks:** Flutter, Dart, Python, Django REST Framework.
+* **Architecture & Testing:** Clean Architecture, SOLID, DDD, Unit, Widget, and End-to-End Testing.
+* **State Management:** BLoC, Riverpod, Provider.
+* **Backend & Cloud:** RESTful APIs, Firebase (Auth, Firestore, Cloud Functions), GCP.
+* **Currently Studying:** Go, Gin, Docker, and AWS cloud services.
+
+<div align="center">
+  <a href="./curriculo_daniel_brown_ATS_v2.pdf" title="View my resume">
+    <img src="./assets/icons/pdf.svg" width="38" alt="View my resume" />
+  </a>
+  <br/>
+  <sub>Resume</sub>
+</div>
 
 ## Core Tech Stack
 
 <div align="center">
 
 ### Mobile Engineering
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-<img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
+<img src="./assets/icons/flutter.svg" width="48" height="48" alt="Flutter" title="Flutter" />&nbsp;&nbsp;
+<img src="./assets/icons/dart.svg" width="48" height="48" alt="Dart" title="Dart" />&nbsp;&nbsp;
+<img src="./assets/icons/android.svg" width="48" height="48" alt="Android" title="Android" />&nbsp;&nbsp;
+<img src="./assets/icons/apple.svg" width="48" height="48" alt="iOS" title="iOS" />
 
 ### Backend Engineering
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-<img src="https://img.shields.io/badge/Django-0B4B33?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-<img src="https://img.shields.io/badge/REST%20API-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+<img src="./assets/icons/python.svg" width="48" height="48" alt="Python" title="Python" />&nbsp;&nbsp;
+<img src="./assets/icons/django.svg" width="48" height="48" alt="Django REST Framework" title="Django REST Framework" />&nbsp;&nbsp;
+<img src="./assets/icons/fastapi.svg" width="48" height="48" alt="REST API" title="REST API" />
 
 ### Data, Cloud & Delivery
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS" />
-<img src="https://img.shields.io/badge/Codemagic-F45E3F?style=for-the-badge&logo=flutter&logoColor=white" alt="Codemagic" />
+<img src="./assets/icons/firebase.svg" width="48" height="48" alt="Firebase" title="Firebase" />&nbsp;&nbsp;
+<img src="./assets/icons/googlecloud.svg" width="48" height="48" alt="Cloud Functions and GCP" title="Cloud Functions and GCP" />&nbsp;&nbsp;
+<img src="./assets/icons/postgresql.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
+<img src="./assets/icons/sqlite.svg" width="48" height="48" alt="SQLite" title="SQLite" />&nbsp;&nbsp;
+<img src="./assets/icons/codemagic.svg" width="48" height="48" alt="Codemagic" title="Codemagic" />&nbsp;&nbsp;
+<img src="./assets/icons/githubactions.svg" width="48" height="48" alt="GitHub Actions" title="GitHub Actions" />
 
 ### Quality & Architecture
-<img src="https://img.shields.io/badge/Clean%20Architecture-1D4ED8?style=for-the-badge&logo=dependabot&logoColor=white" alt="Clean Architecture" />
-<img src="https://img.shields.io/badge/MVVM-2563EB?style=for-the-badge&logo=icloud&logoColor=white" alt="MVVM" />
-<img src="https://img.shields.io/badge/MVC-0284C7?style=for-the-badge&logo=googlenews&logoColor=white" alt="MVC" />
-<img src="https://img.shields.io/badge/Bloc-1F6FEB?style=for-the-badge&logo=flutter&logoColor=white" alt="Bloc" />
-<img src="https://img.shields.io/badge/GetX-111827?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX" />
-<img src="https://img.shields.io/badge/Provider-0EA5E9?style=for-the-badge&logo=flutter&logoColor=white" alt="Provider" />
+<img src="./clean_architecture_schem.png" width="48" height="48" alt="Clean Architecture" title="Clean Architecture" />&nbsp;&nbsp;
+<img src="./bloc_cubit_icon.png" width="48" height="48" alt="BLoC and Cubit" title="BLoC and Cubit" />&nbsp;&nbsp;
+<img src="./provider_icon.webp" width="48" height="48" alt="Provider" title="Provider" />&nbsp;&nbsp;
+<img src="./assets/icons/code.svg" width="48" height="48" alt="SOLID, DDD and automated testing" title="SOLID, DDD and automated testing" />
+
+<br/>
+<sub>Clean Architecture · SOLID · DDD · BLoC · Riverpod · Provider · Automated Testing</sub>
+
+### Currently Learning
+<img src="./assets/icons/go.svg" width="48" height="48" alt="Go" title="Go" />&nbsp;&nbsp;
+<img src="./assets/icons/gin.svg" width="48" height="48" alt="Gin Web Framework" title="Gin Web Framework" />&nbsp;&nbsp;
+<img src="./assets/icons/docker.svg" width="48" height="48" alt="Docker" title="Docker" />&nbsp;&nbsp;
+<img src="./assets/icons/aws.svg" width="58" height="48" alt="AWS" title="AWS" />
+
+<sub>AWS: SQS · Lambda · EC2 · S3 · Route 53 · Elastic Load Balancing</sub>
 
 </div>
 
 ---
 
-## Active Projects
+## Current Engineering Work
 
-* **Real-Time Management System & Data Dashboard:** A full-stack solution (Flutter + Firebase) for managing users, statuses, and appointments with real-time backend synchronization.
-* **Productivity App (Kronos / Studie):** End-to-end development of a productivity tracking application, encompassing system design through App Store/Play Store deployment.
-* **Booking & Space Reservation Mobile Solution:** Application handling complex state management and concurrency for real-time spot reservations.
+* **International Healthtech:** Architecture and feature development for a production Flutter application, with RESTful APIs, automated tests, native Android/iOS integrations, and CI/CD.
+* **Mobile Technical Leadership:** Architecture definition, mentoring, code review, automated builds, and testing standards across STEM's mobile project portfolio.
+* **Firebase-backed Products:** Authentication, real-time data, Cloud Functions, and reliable communication between Flutter applications and backend services.
+
+## Academic Background
+
+<div align="center">
+  <a href="https://www.uerj.br/" title="Universidade do Estado do Rio de Janeiro">
+    <img src="./assets/uerj-logo.png" width="115" alt="UERJ logo" />
+  </a>
+
+  <h3>Universidade do Estado do Rio de Janeiro — UERJ</h3>
+  <p>Bachelor's Degree in Computer Science · 2022–2028 (in progress)</p>
+
+  <table>
+    <tr>
+      <td align="center"><strong>10.00</strong><br/><sub>Object-Oriented Programming I</sub></td>
+      <td align="center"><strong>7.00</strong><br/><sub>Object-Oriented Programming II</sub></td>
+      <td align="center"><strong>7.25</strong><br/><sub>Object-Oriented Programming III</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>8.50</strong><br/><sub>Algorithms & Data Structures I</sub></td>
+      <td align="center"><strong>8.75</strong><br/><sub>Algorithms & Data Structures II</sub></td>
+      <td align="center"><strong>7.44 / 10.00</strong><br/><sub>Cumulative GPA (CR)</sub></td>
+    </tr>
+  </table>
+
+  <a href="./historico_faculdade.pdf" title="View academic transcript">
+    <img src="./assets/icons/pdf.svg" width="34" alt="View academic transcript" />
+  </a>
+  <br/>
+  <sub>Academic Transcript</sub>
+</div>
 
 ## Experience & Activities
 
-<details>
-  <summary><strong>Technical Flutter Instructor - STEM Junior Company (UERJ)</strong> (Aug/2025 - Present)</summary>
+<details open>
+  <summary><strong>Mid-Level Flutter Mobile Developer — Doctor Meddie</strong> (Mar/2026 - Present · Miami, FL · Remote)</summary>
   <br/>
-  - Train students in cross-platform development through a structured technical learning path.<br/>
-  - Conduct practical workshops and provide technical mentorship on real-world projects.<br/>
-  - Enforce architectural standards and software design patterns (MVC, MVVM, Clean Architecture).<br/>
-  - Applied Stack: Flutter, Dart, Firebase, Codemagic, BLOC, GetX, Provider, Git, Scrum, and Kanban.
+  <div align="center">
+    <a href="https://drmeddie.com/" title="Doctor Meddie">
+      <img src="./assets/doctor-meddie-logo.png" width="230" alt="Doctor Meddie logo" />
+    </a>
+  </div>
+  <br/>
+  - Defined the Flutter architecture for Android and iOS using Clean Architecture and SOLID.<br/>
+  - Selected BLoC or Riverpod according to each feature's complexity and documented technical standards for the team.<br/>
+  - Structured unit, widget, and End-to-End automated test suites to prevent regressions.<br/>
+  - Built and maintained Codemagic and GitHub Actions pipelines for tests, builds, and store releases.<br/>
+  - Developed RESTful API integrations and mapped native Android and iOS capabilities for an international Healthtech product.
 </details>
 
 <details>
-  <summary><strong>Technical Writer & Speaker - CCT Extension Project (UERJ)</strong> (May/2025 - Present)</summary>
+  <summary><strong>Head of Mobile Development — STEM Junior Company (UERJ)</strong> (Sep/2025 - Present)</summary>
   <br/>
-  - Produce technical documentation and educational materials on Information Security.<br/>
-  - Present hands-on workshops featuring practical cyberattack and defense scenarios.<br/>
-  - Technologies & Tools: Linux, Kali, Nmap, Maltego, SQL Injection, and Trello.
+  - Lead and mentor a mobile team of eight developers through code reviews and technical sessions.<br/>
+  - Established Clean Architecture and SOLID as shared engineering standards across the mobile portfolio.<br/>
+  - Define state-management strategies with Riverpod, BLoC, and Provider according to business complexity.<br/>
+  - Configure GitHub Actions pipelines for automated builds and tests on pull requests.<br/>
+  - Develop Firebase, Cloud Functions, and RESTful API integrations for external client projects.
 </details>
 
 <details>
-  <summary><strong>Computer Architecture Teaching Assistant - UERJ</strong></summary>
+  <summary><strong>Computer Architecture Teaching Assistant — UERJ</strong> (Apr/2024 - Present)</summary>
   <br/>
-  - Provide technical support to students, significantly improving overall class approval rates.<br/>
-  - Developed a full-stack mobile application (Flutter/Dart) to manage tutoring schedules and student appointments.
+  - Support more than 40 students in a complex undergraduate Computer Architecture course.<br/>
+  - Develop Python scripts with Pandas, Matplotlib, and Seaborn to automate performance analysis.<br/>
+  - Work with faculty on teaching strategies that contributed to a 50% increase in the course approval rate.
 </details>
 
 <details>
-  <summary><strong>Information Security Teaching Assistantship - UERJ</strong></summary>
+  <summary><strong>Digital Security Instructor & Technical Writer</strong> (May/2025 - Apr/2026)</summary>
   <br/>
-  - Conduct research, perform technical writing, and develop comprehensive study guides for educational cybersecurity workshops.
+  - Created classes, technical articles, and educational material about digital security best practices.<br/>
+  - Adapted complex technical subjects for different audiences in a structured course format.
 </details>
 
 ## GitHub Activity
@@ -142,16 +206,19 @@ I build high-performance cross-platform applications and scalable software archi
 
 <div align="center">
   <a href="https://verify.openedg.org/" title="PCEP - Certified Entry-Level Python Programmer">
-    <img src="https://pythoninstitute.org/assets/61f11fac8e6f4153315957.png" width="100" alt="PCEP" />
+    <img src="./assets/icons/python.svg" width="44" alt="PCEP" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://developers.google.com/profile/badges/playlists/android/android-architecture?hl=pt-br">
-    <img src="https://developers.google.com/profile/badges/playlists/android/android-architecture/badge.svg" width="100" alt="Google Android Architecture" />
+    <img src="./assets/icons/android.svg" width="44" alt="Google Android Architecture" title="Google Android Architecture" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.dio.me/certificate/64EE8ZTZ/share">
-    <img src="https://hermes.dio.me/courses/badge/3e88a455-c220-4e56-bb29-28c046ed6ae7.png" width="90" alt="Clean Code" />
+    <img src="./assets/icons/code.svg" width="44" alt="Clean Code" title="Clean Code" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.dio.me/certificate/4XAWENER/share">
-    <img src="https://hermes.dio.me/courses/badge/406684a4-396d-4160-94b9-ead934e18564.png" width="100" alt="GitHub" />
+    <img src="./assets/icons/github.svg" width="44" alt="GitHub" title="GitHub Certification" />
   </a>
 </div>
 
@@ -160,11 +227,12 @@ I build high-performance cross-platform applications and scalable software archi
 ## Social Media
 
 <div align="center">
-  <a href="mailto:daniel_profissional1998@hotmail.com">
-    <img src="https://img.shields.io/badge/Contact%20me%20via%20Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  <a href="mailto:daniel.brown.dev1998@gmail.com">
+    <img src="./assets/icons/gmail.svg" width="34" alt="Email" title="Email" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/daniel-brown-rodrigues-m-dos-passos" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    <img src="./assets/icons/linkedin.svg" width="34" alt="LinkedIn" title="LinkedIn" />
   </a>
 </div>
 
